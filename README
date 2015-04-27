@@ -1,0 +1,11 @@
+README
+
+to compile
+javac EvaluateNaiveBayes.java
+
+to run 
+java EvaluateNaiveBayes 'trainingFile' 'TestFile'
+
+or
+java EvaluateNaiveBayes
+to use default files I included.
